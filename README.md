@@ -66,7 +66,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/lhbccf/lhbccf/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=lhbccf&locale=en&mode=weekly&theme=default&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/lhbccf/lhbccf/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
