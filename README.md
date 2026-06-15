@@ -12,12 +12,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://i.imgur.com/Lilxy8J.jpeg"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
   <img width="12" />
