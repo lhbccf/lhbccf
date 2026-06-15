@@ -8,7 +8,8 @@
 
 <br clear="both">
 
-<h2 align="left">Hello👋! My name is Luis Ferreira and I'm a Full-Stack Web Developer from Lisbon, Portugal</h2>
+<h2 align="center">Hello there! 👋 My name is Luis Ferreira</h2>
+<h2 align="center">I'm a Computer Science and Engineering Graduate from Lisbon, Portugal</h2>
 
 ###
 
